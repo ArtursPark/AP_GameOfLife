@@ -1,5 +1,10 @@
 # Compiled class file
 *.class
+bin/
+
+# IntelliJ IDEA metadata
+.idea/
+*.iml
 
 # Log file
 *.log
